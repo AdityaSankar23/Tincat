@@ -1,2 +1,1 @@
-# Tincat
-A tinder for cats
+TinDog Starting Files
